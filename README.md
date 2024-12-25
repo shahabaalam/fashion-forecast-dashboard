@@ -17,7 +17,19 @@
 
 ## 📖 Introduction
 
-Welcome to the **Fashion Forecast Dashboard**! This project is an interactive Streamlit application designed to forecast sales in the fashion retail industry. Leveraging time series analysis and machine learning models, the dashboard provides valuable insights into future sales trends and resource allocation, enabling businesses to make informed decisions.
+Welcome to the **Fashion Forecast Dashboard**! This project is an interactive Streamlit application designed to forecast sales in the fashion retail industry. By leveraging advanced machine learning models, dynamic data visualizations, and integrating the **ChatGPT API**, the dashboard empowers businesses to make data-driven decisions with ease and precision.
+
+### **What Our App Can Do:**
+
+- **Sales Forecasting:** Utilizes **Auto ARIMA** model to predict future sales trends, enabling proactive inventory and resource management.
+  
+- **Interactive Visualizations:** Utilize **Plotly** to create dynamic and responsive charts and graphs, making data exploration intuitive and insightful.
+  
+- **Resource Allocation Planning:** Analyze forecasted sales to optimize inventory levels and allocate resources effectively, reducing costs and improving operational efficiency.
+  
+- **AI-Powered Insights:** Engage with an **AI assistant powered by ChatGPT**, allowing users to query forecasts, receive intelligent data-driven responses, and gain deeper insights into sales patterns.
+  
+- **User-Friendly Interface:** Designed with **Streamlit** for an intuitive and responsive user experience, enabling users of all technical levels to navigate and utilize the dashboard effectively.
 
 ## 🎥 Demo
 
